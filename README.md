@@ -1,4 +1,4 @@
-# Btap5
+# Btap6
     Đề số 6
     Để quản lý các hộ dân trong một khu phố, người ta quản lý các thông tin như sau:
     Với mỗi hộ dân, có các thuộc tính:
